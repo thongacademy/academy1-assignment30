@@ -1,0 +1,24 @@
+{
+    "FunctionName": "Assign30CountryProcessor",
+    "FunctionArn": "arn:aws:lambda:us-east-1:941409993553:function:Assign30CountryProcessor",
+    "Runtime": "python3.9",
+    "Role": "arn:aws:iam::941409993553:role/service-role/S3CountryAccessRole",
+    "Handler": "lambda_function.lambda_handler",
+    "CodeSize": 577,
+    "Description": "",
+    "Timeout": 3,
+    "MemorySize": 128,
+    "LastModified": "2021-11-29T02:57:16.432+0000",
+    "CodeSha256": "bbiAUPQjwajO7CMlPicMztEiXfnvLhqc4JrfOLoIWHc=",
+    "Version": "$LATEST",
+    "TracingConfig": {
+        "Mode": "PassThrough"
+    },
+    "RevisionId": "f90953d3-7015-462f-8883-ee7fe4113930",
+    "State": "Active",
+    "LastUpdateStatus": "Successful",
+    "PackageType": "Zip"
+}
+[
+    "/aws/lambda/Assign30CountryProcessor"
+]
