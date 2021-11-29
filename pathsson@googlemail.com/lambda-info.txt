@@ -24,5 +24,4 @@
 @@Get the log group name
 [
     "/aws/lambda/Assign30CountryProcessor",
-    "Assignment25-LogGroup"
 ]
