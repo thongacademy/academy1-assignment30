@@ -1,0 +1,33 @@
+Get function configurations
+{
+    "FunctionName": "Assign30CountryProcessor",
+    "FunctionArn": "arn:aws:lambda:us-east-1:349613135469:function:Assign30CountryProcessor",
+    "Runtime": "python3.9",
+    "Role": "arn:aws:iam::349613135469:role/service-role/S3CountryAccessRole",
+    "Handler": "lambda_function.lambda_handler",
+    "CodeSize": 577,
+    "Description": "",
+    "Timeout": 3,
+    "MemorySize": 128,
+    "LastModified": "2021-12-01T21:35:08.912+0000",
+    "CodeSha256": "g4MOdgsO1hxOfM2hdqbVDLpd6VAvaB6BDhOJG4h7ktM=",
+    "Version": "$LATEST",
+    "TracingConfig": {
+        "Mode": "PassThrough"
+    },
+    "RevisionId": "959f7303-6035-4811-9484-d7953b34007b",
+    "State": "Active",
+    "LastUpdateStatus": "Successful",
+    "PackageType": "Zip",
+    "Architectures": [
+        "x86_64"
+    ]
+}
+Get the log group name
+[
+    "/aws/lambda/Assign30CountryProcessor",
+    "/aws/lambda/hello-world"
+]
+[
+    "/aws/lambda/Assign30CountryProcessor"
+]
